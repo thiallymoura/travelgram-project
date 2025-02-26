@@ -1,4 +1,4 @@
-<h1> 🚀 Desafio prático - Local Turístico</h1>
+<h1> 🚀 Projeto prático - DIAGRAMA DE VIAGENS</h1>
 
 <p align="center">
   <img alt="License" src="./assets/readme.png">
@@ -18,5 +18,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Página web de diagrama de viagens. 
+Página web de diagrama de viagens.
 Este projeto foi realizado no curso de Fullstack da Rocketseat.
