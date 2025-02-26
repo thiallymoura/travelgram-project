@@ -1,7 +1,7 @@
 <h1> 🚀 Projeto prático - DIAGRAMA DE VIAGENS</h1>
 
 <p align="center">
-  <img alt="License" src="./assets/readme.png">
+  <img alt="License" src="./assets/readme-project.png">
 </p>
 
 <br>
