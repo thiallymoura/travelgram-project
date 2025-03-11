@@ -3,20 +3,20 @@ nav {
     justify-content: space-between;
     align-items: center;
 
-    padding-block: 20px;
+    padding-block: 1.25rem;
 }
 
 nav ul {
     list-style: none;
     display: flex;
     align-items: center;
-    gap: 24px;
+    gap: 1.5rem;
 
-    padding-block: 8px;
+    padding-block: .5rem;
 }
 
 nav ul li:last-child img {
-    width: 40px;
-    height: 40px;
+    width: 2.5rem;
+    height: 2.5rem;
     border-radius: 50%
 }
